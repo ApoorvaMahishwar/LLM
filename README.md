@@ -6,7 +6,7 @@
 
 ## PART: 1 Understanding Language Models
 
-1. An Introduction to LLMs
+1. [An Introduction to LLMs](./Chapter-1/)
 2. Tokens and Embeddings
 3. Looking inside LLMS
 
